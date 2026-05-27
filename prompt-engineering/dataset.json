@@ -1,0 +1,17 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "75 kg",
+      "goal": "Marathon training - high-endurance athlete requiring 3000+ calories with carbohydrate loading and hydration strategy",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan includes 4 eating occasions (breakfast, lunch, dinner, snacks) with estimated calorie totals meeting 3000+ calorie requirement",
+      "Carbohydrate-focused macronutrient distribution emphasizing 55-65% of calories from carbs for endurance performance",
+      "Includes specific hydration strategy recommendations throughout the day"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration strategy across breakfast, lunch, dinner, and snacks"
+  }
+]

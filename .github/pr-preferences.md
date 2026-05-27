@@ -1,0 +1,1 @@
+# PR Creation Preferences\n\nWhen creating and pushing a PR, Antigravity should always:\n1. Use `gh` or Github CLI.\n2. Add or append a descriptive summary and description to the PR.\n3. Use the current branch to push and create the PR.\n
