@@ -227,3 +227,8 @@ build/
 
 # TypeScript
 *.tsbuildinfo
+
+# User-added ignores
+.kilo
+.venv
+.env
